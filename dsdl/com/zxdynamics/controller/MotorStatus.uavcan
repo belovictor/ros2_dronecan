@@ -1,0 +1,7 @@
+#
+# Nested type.
+# DC motor status
+#
+
+float16 motor_current
+float16 motor_voltage

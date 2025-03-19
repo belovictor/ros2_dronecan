@@ -1,0 +1,14 @@
+#
+# Nested type.
+# Cargo bin status
+#
+
+uint8 BIN_STATE_IDLE = 0
+uint8 BIN_STATE_OPENING = 1
+uint8 BIN_STATE_OPEN = 2
+uint8 BIN_STATE_CLOSING = 3
+uint8 BIN_STATE_CLOSED = 4
+uint8 BIN_STATE_STUCK = 5
+uint8 BIN_STATE_SET_OPEN = 6
+uint8 BIN_STATE_SET_CLOSE = 7
+uint8 bin_state
